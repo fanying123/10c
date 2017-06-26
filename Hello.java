@@ -9,3 +9,6 @@ class Foo{
 class Foo2{
 
 }
+class Foo1{
+
+}
