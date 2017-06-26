@@ -12,3 +12,6 @@ class Foo2{
 class Foo1{
 
 }
+class Foo3{
+
+}
