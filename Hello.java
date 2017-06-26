@@ -15,3 +15,4 @@ class Foo1{
 class Foo3{
 
 }
+bug 001
