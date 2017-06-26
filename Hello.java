@@ -18,3 +18,6 @@ class Foo3{
 class master001{
 
 }
+class master002{
+
+}
