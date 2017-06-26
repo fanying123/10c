@@ -6,3 +6,6 @@ public class Hello{
 class Foo{
 
 }
+class Foo1{
+
+}
