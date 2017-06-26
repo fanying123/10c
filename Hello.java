@@ -16,3 +16,4 @@ class Foo3{
 
 }
 bug 001
+bug 002
